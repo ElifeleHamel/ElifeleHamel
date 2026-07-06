@@ -5,7 +5,7 @@ I'm transitioning into the IT industry with a focus on networking, systems admin
 Built a custom desktop computer from individual components, installed and configured Windows 11, enabled Intel Platform Trust Technology (PTT) and XMP, installed system drivers, resolved hardware and operating system issues, and documented the complete project.
 Repository:
 - Custom PC Build
-### Currently Learning
+### 📚 Currently Learning
 - Cisco CCNA
 - Python
 - Git & GitHub
