@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**ElifeleHamel/ElifeleHamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello 👋
+I'm transitioning into the IT industry with a focus on networking, systems administration, and cybersecurity. I enjoy building hands-on projects that strengthen my technical skills and document my learning journey.
+### 📂 Featured Projects
+#### Custom PC Assembly, Windows 11 Deployment & System Configuration
+Built a custom desktop computer from individual components, installed and configured Windows 11, enabled Intel Platform Trust Technology (PTT) and XMP, installed system drivers, resolved hardware and operating system issues, and documented the complete project.
+Repository:
+- Custom PC Build
+### Currently Learning
+- Cisco CCNA
+- Python
+- Git & GitHub
+- Windows Administration
+- Networking
+- Cybersecurity Fundamentals
+### 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/elifelehamel/
+Your support would be greatly appreciated. :D
