@@ -15,4 +15,4 @@ Repository:
 ### 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/elifelehamel/
 
-Your support would be greatly appreciated. :D
+Your support would be greatly appreciated. 😄
