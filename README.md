@@ -6,12 +6,11 @@ Built a custom desktop computer from individual components, installed and config
 Repository:
 - Custom PC Build
 ### 📚 Currently Learning
-- Cisco CCNA
-- Python
-- Git & GitHub
+- Google IT Support Professional Certificate
 - Windows Administration
-- Networking
-- Cybersecurity Fundamentals
+- IT Troubleshooting
+- Python
+- Linux
 ### 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/elifelehamel/
 
